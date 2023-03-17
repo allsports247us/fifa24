@@ -1,0 +1,11 @@
+{
+  "name": "arsenal-vs-sporting-lisbon-live",
+  "version": "1.0.0",
+  "description": "Arsenal vs. Sporting CP live stream: How to watch Europa League online, TV channel, prediction, odds.Arsenal vs Sporting CP live: score and latest updates from the Europa League",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tikh",
+  "license": "ISC"
+}
